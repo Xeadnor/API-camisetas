@@ -1,5 +1,5 @@
 {
-  "camisetas": [
+  "prueba": [
   {
     "id": 5,
     "name": "cajas"
@@ -15,14 +15,6 @@
   {
     "id": 14,
     "name": "lavabos"
-  },
-  {
-    "id": 2,
-    "name": "espacio"
-  },
-  {
-    "id": 4,
-    "name": "gafas de sol"
   },
   {
     "id": 7,
