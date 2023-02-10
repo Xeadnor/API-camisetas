@@ -1,0 +1,32 @@
+{
+  "camisetas": [
+  {
+    "id": 5,
+    "name": "cajas"
+  },
+  {
+    "id": 15,
+    "name": "ropa"
+  },
+  {
+    "id": 1,
+    "name": "sombreros"
+  },
+  {
+    "id": 14,
+    "name": "lavabos"
+  },
+  {
+    "id": 2,
+    "name": "espacio"
+  },
+  {
+    "id": 4,
+    "name": "gafas de sol"
+  },
+  {
+    "id": 7,
+    "name": "corbatas"
+  }
+]
+}
